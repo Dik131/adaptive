@@ -1,0 +1,8 @@
+* {
+  min-width: 0;
+  font-size: 16px;
+}
+.container {
+  background-color: aquamarine;
+  width: 90%;
+}
