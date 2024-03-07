@@ -1,1 +1,12 @@
-
+.table{
+    border-style: none;
+    padding: 5rem 25rem;
+}
+.title_raw{
+    font-size: 1.2rem;
+    padding: 1rem 1rem;
+    text-align: left;
+}
+.item_raw a{
+    color: darkslategray;
+}
